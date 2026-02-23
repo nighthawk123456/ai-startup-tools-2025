@@ -1,6 +1,6 @@
-# AI Startup Strategy Tools Comparison 2025
+# AI Startup Strategy Tools Comparison 2026
 
-**Last Updated:** February 2025  
+**Last Updated:** February 2026  
 **Research Method:** Analysis of pricing, features, user reviews, and turnaround time
 
 ---
@@ -212,5 +212,5 @@ Submit a PR or [email us](mailto:hello@xavier.ai)
 
 ---
 
-*Last updated: February 2025*  
+*Last updated: February 2026*  
 *This is an independent analysis. Not sponsored by any listed provider.*
